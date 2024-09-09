@@ -6,8 +6,9 @@ catered specifically to their particular financial situation.
 ## Technologies Used:
 - Next.js
 - React
-- Javascript
 - HTML
 - Tailwind CSS
+- Javascript
 - Clerk
+- Neon
 - OpenAI API
